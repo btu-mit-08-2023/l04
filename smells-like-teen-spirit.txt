@@ -1,0 +1,24 @@
+=== verse-1 ===
+
+=== pre-chorus-1 ===
+
+=== chorus-1 ===
+
+=== post-chorus-1 ===
+
+=== verse-2 ===
+
+=== pre-chorus-2 ===
+
+=== chorus-2 ===
+
+=== post-chorus-2 ===
+
+=== verse-3 ===
+
+=== pre-chorus-3 ===
+
+=== chorus-3 ===
+
+=== outro-3 ===
+
